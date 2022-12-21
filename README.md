@@ -22,8 +22,3 @@ Now that you've got a ready zip for your device, you might be wondering how to k
 
 7. `git checkout master` then repeat steps 4-6 for any other devices you support
 
-Then you should be able to `git pull upstream master` from your master branch and either merge or cherry-pick the new AK3 commits into your device branches as needed.
-
-___For further support and usage examples please see the AnyKernel3 XDA thread:___ _https://forum.xda-developers.com/t/dev-template-anykernel3-easily-mod-rom-ramdisk-pack-image-gz-flashable-zip.2670512/_
-
-__Have fun!__
